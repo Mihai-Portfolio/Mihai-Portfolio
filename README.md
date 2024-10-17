@@ -1,5 +1,5 @@
 ## Hi there, my name is Mihai!
-<h1>Hi, I'm Mihai, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mihai, an <a href="https://www.linkedin.com/in/mihai-calin-97b6a3323/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
